@@ -11,4 +11,7 @@ Last updated: 6-28-2018
   <li>
     Legos with ARKit2: https://www.youtube.com/watch?v=JwSlKwuT8VI
   </li>
+  <li>
+    Business card with AR hyperlinks: https://youtu.be/pTITrp_xOis
+  </li>
 </ul>
