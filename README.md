@@ -17,4 +17,7 @@ Last updated: 6-28-2018
   <li>
     "Measure" app from Google: https://arstechnica.com/gadgets/2018/06/googles-ar-measure-app-comes-to-all-arcore-android-phones/
   </li>
+  <li>
+    AR.js video clip montage: https://www.youtube.com/watch?v=mbEDgplOqD4&amp;feature=youtu.be
+  </li>
 </ul>
