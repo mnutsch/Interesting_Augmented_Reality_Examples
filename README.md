@@ -8,4 +8,7 @@ Last updated: 6-28-2018
   <li>
     Children's storybook graphics: https://www.linkedin.com/feed/update/urn:li:activity:6417284777375862785
   </li>
+  <li>
+    Legos with ARKit2: https://www.youtube.com/watch?v=JwSlKwuT8VI
+  </li>
 </ul>
