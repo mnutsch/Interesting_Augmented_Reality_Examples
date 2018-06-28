@@ -14,4 +14,7 @@ Last updated: 6-28-2018
   <li>
     Business card with AR hyperlinks: https://youtu.be/pTITrp_xOis
   </li>
+  <li>
+    "Measure" app from Google: https://arstechnica.com/gadgets/2018/06/googles-ar-measure-app-comes-to-all-arcore-android-phones/
+  </li>
 </ul>
