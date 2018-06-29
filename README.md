@@ -2,7 +2,7 @@
 
 This is a list of links to interesting videos showing augmented reality.
 
-Last updated: 6-28-2018
+Last updated: 6-29-2018
 
 <ul>
   <li>
@@ -19,5 +19,8 @@ Last updated: 6-28-2018
   </li>
   <li>
     AR.js video clip montage: https://www.youtube.com/watch?v=mbEDgplOqD4&amp;feature=youtu.be
+  </li>
+  <li>
+    Augmented Reality with occlusion by Niantic: https://www.youtube.com/watch?v=7ZrmPTPgY3I
   </li>
 </ul>
