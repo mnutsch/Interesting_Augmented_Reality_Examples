@@ -2,7 +2,7 @@
 
 This is a list of links to interesting videos showing augmented reality.
 
-Last updated: 6-29-2018
+Last updated: 7-1-2018
 
 <ul>
   <li>
@@ -13,6 +13,9 @@ Last updated: 6-29-2018
   </li>
   <li>
     Business card with AR hyperlinks: https://youtu.be/pTITrp_xOis
+  </li>
+  <li>
+    Business card with video and hyperlinks: https://www.youtube.com/watch?v=lUO4_0kV7DM
   </li>
   <li>
     "Measure" app from Google: https://arstechnica.com/gadgets/2018/06/googles-ar-measure-app-comes-to-all-arcore-android-phones/
