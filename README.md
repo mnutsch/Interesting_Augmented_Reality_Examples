@@ -2,7 +2,7 @@
 
 This is a list of links to interesting videos showing augmented reality.
 
-Last updated: 7-1-2018
+Last updated: 7-5-2018
 
 <ul>
   <li>
@@ -25,5 +25,10 @@ Last updated: 7-1-2018
   </li>
   <li>
     Augmented Reality with occlusion by Niantic: https://www.youtube.com/watch?v=7ZrmPTPgY3I
+  </li>
+  <li>
+    Blog Post About Potential of Augmented Reality:<br/>
+    https://hackernoon.com/can-augmented-reality-solve-mobile-visualization-f06c008f8f84<br/>
+    https://hackernoon.com/silent-augmented-reality-f0f7614cab32
   </li>
 </ul>
