@@ -31,4 +31,7 @@ Last updated: 7-5-2018
     https://hackernoon.com/can-augmented-reality-solve-mobile-visualization-f06c008f8f84<br/>
     https://hackernoon.com/silent-augmented-reality-f0f7614cab32
   </li>
+  <li>
+    Interactive tabletop projection device: https://youtu.be/DgTcIwhK5zg
+  </li>
 </ul>
