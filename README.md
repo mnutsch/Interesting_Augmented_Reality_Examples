@@ -2,7 +2,7 @@
 
 This is a list of links to interesting videos showing augmented reality.
 
-Last updated: 7-5-2018
+Last updated: 7-8-2018
 
 <ul>
   <li>
