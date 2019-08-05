@@ -2,7 +2,7 @@
 
 This is a list of links to interesting videos showing augmented reality.
 
-Last updated: 7-8-2018
+Last updated: 8-4-2019
 
 <ul>
   <li>
@@ -33,5 +33,8 @@ Last updated: 7-8-2018
   </li>
   <li>
     Interactive tabletop projection device: https://youtu.be/DgTcIwhK5zg
+  </li>
+  <li>
+    Augmented Reality projection for aerospace manufacturing: https://youtu.be/4KhDPymjDyw?t=75
   </li>
 </ul>
